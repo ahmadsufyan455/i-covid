@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">I-Covid</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kasus">Kasus</string>
+    <string name="pencegahan">Pencegahan</string>
+    <string name="informasi">Informasi</string>
+    <string name="peduli_covid">Peduli\nCovid-19</string>
+    <string name="update_kasus">Update Kasus</string>
+    <string name="lihat_semua">Lihat Semua</string>
+    <string name="_143000">143000</string>
+    <string name="positif">Positif</string>
+    <string name="_103000">103000</string>
+    <string name="sembuh">Sembuh</string>
+    <string name="_6450">6450</string>
+    <string name="meninggal">Meninggal</string>
+    <string name="peta_persebaran">Peta Persebaran</string>
+    <string name="covid_nasional">Data Covid Nasional</string>
+    <string name="dki_jakarta">DKI Jakarta</string>
+    <string name="loading">Loading...</string>
+    <string name="cegah">Cegah\nCovid-19</string>
+    <string name="cegah1">Selalu Gunakan masker saat keluar rumah</string>
+    <string name="cegah2">Rajin cuci tangan setelah beraktivitas</string>
+    <string name="cegah3">Hindari jabat tangan dan kontak fisik serta keramaian</string>
+    <string name="title_of_news">Title Of News</string>
+    <string name="info_covid">Informasi Terkait Covid-19</string>
+    <string name="info_hoax">Informasi HOAX Covid-19</string>
+    <string name="rs_rujukan">Daftar rumah sakit rujukan</string>
+
+    <string-array name="country">
+        <item>Indonesia</item>
+    </string-array>
+</resources>

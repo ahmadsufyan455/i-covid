@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+
+        <shape>
+
+            <corners android:radius="100dp"/>
+            <solid android:color="@android:color/white"/>
+            <padding
+                android:bottom="1dp"
+                android:left="16dp"
+                android:right="30dp"
+                android:top="1dp"/>
+
+        </shape>
+
+    </item>
+    <item>
+        <bitmap android:src="@drawable/location"
+            android:gravity="left"/>
+    </item>
+    <item>
+
+        <bitmap
+            android:gravity="right"
+            android:src="@drawable/arrow_down"/>
+
+    </item>
+
+</layer-list>

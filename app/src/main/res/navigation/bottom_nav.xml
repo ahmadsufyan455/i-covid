@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom_nav"
+    app:startDestination="@id/caseFragment">
+
+    <fragment
+        android:id="@+id/caseFragment"
+        android:name="com.fynzero.i_covid.ui.cases.CaseFragment"
+        android:label="fragment_case"
+        tools:layout="@layout/fragment_case" />
+    <fragment
+        android:id="@+id/preventFragment"
+        android:name="com.fynzero.i_covid.ui.prevent.PreventFragment"
+        android:label="fragment_prevent"
+        tools:layout="@layout/fragment_prevent" />
+    <fragment
+        android:id="@+id/newsFragment"
+        android:name="com.fynzero.i_covid.ui.news.NewsFragment"
+        android:label="fragment_news"
+        tools:layout="@layout/fragment_news" />
+</navigation>

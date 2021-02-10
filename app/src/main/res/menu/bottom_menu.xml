@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/caseFragment"
+        android:icon="@drawable/coronavirus"
+        android:title="@string/kasus" />
+    <item
+        android:id="@+id/preventFragment"
+        android:icon="@drawable/local_hospital"
+        android:title="@string/pencegahan" />
+    <item
+        android:id="@+id/newsFragment"
+        android:icon="@drawable/description"
+        android:title="@string/informasi" />
+</menu>
